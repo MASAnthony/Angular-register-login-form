@@ -1,0 +1,45 @@
+
+ .box{
+    display: flex;
+    border: 1px solid red; 
+    /* width: 100%;  */
+}
+
+.in-box{
+    padding-bottom: 1px;
+    border: 2px solid darkred;
+    margin: 55px;
+    width: 100%;
+}
+.col{
+border: 3px solid blue;
+}
+
+h1{
+    text-align: left;
+    padding: 10px 10px 10px 10px;
+
+}
+
+label {
+    display: inline-block;
+    margin-bottom: 0.5rem;
+    padding-left: 10px;
+    width: 30%;
+}
+
+.wid{
+margin-left:  70px;
+}
+
+.round{
+    border-radius: 10px ;
+    color: red;
+}
+
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
